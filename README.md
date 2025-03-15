@@ -86,3 +86,7 @@ Before using ChainLite, ensure your system meets these requirements:
 ### Custom Agent Configuration
 
 ChainLite allows for detailed agent customization:
+
+## Credits
+
+This project was created by Muhammad Sami.
